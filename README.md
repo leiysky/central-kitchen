@@ -1,1 +1,3 @@
-# central-kitchen
+# leiysky's Central Kitchen
+
+Feelings as a newbie chef.
